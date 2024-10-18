@@ -2,7 +2,7 @@
 ### This script is open source, you can download the latest version here: https://github.com/Project-Sloth/ps-fuel
 This version has been highly edited by RoyalLasky to allow gas canisters to work correctly with ox_inventory, along with proper integration with player owned gas stations by LCharmoso.
 
-Feel free to use this version, you will need to edit ox_inventory and LCharmoso gas stations accordingly yourself.
+Feel free to use this version, you will need to edit ox_inventory and LCharmoso gas stations yourself.
 
 -RoyalLasky
 
